@@ -1,0 +1,1 @@
+The Dashboard represent the visualization of SuperMarket Sales report based on 2021 data. Here we have used Button,Tooltip,Action,Bookmark and Hierarchy includes ( drill through, drill up and drill down ).
